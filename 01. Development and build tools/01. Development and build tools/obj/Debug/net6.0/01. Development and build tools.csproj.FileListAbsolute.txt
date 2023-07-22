@@ -1,0 +1,15 @@
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\bin\Debug\net6.0\01. Development and build tools.exe
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\bin\Debug\net6.0\01. Development and build tools.deps.json
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\bin\Debug\net6.0\01. Development and build tools.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\bin\Debug\net6.0\01. Development and build tools.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\bin\Debug\net6.0\01. Development and build tools.pdb
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.csproj.AssemblyReference.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.AssemblyInfoInputs.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.AssemblyInfo.cs
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.csproj.CoreCompileInputs.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\refint\01. Development and build tools.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.pdb
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\01. Development and build tools.genruntimeconfig.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\01. Development and build tools\01. Development and build tools\obj\Debug\net6.0\ref\01. Development and build tools.dll
