@@ -1,14 +1,17 @@
 ﻿using vechileparts;
 using vechiles;
 
-namespace solution
+namespace SOLUTION
 {
     public class Solution
     {
+        // Method to demonstrate information about all vehicles created and their characteristics
         public static void AllVechiles()
         {
+            // Create a list to store different vehicles
             List<object> vechiles = new List<object>();
 
+            // Create instances of different vehicles with specific characteristics
             PassengerCar car = new PassengerCar()
             {
                 engine = new Engine() { Power = 1000, SerialNumber = 123412, Type = "Gasoline", Volume = "low" },
@@ -41,16 +44,18 @@ namespace solution
 
             };
 
+            // Add the created vehicles to the list
             vechiles.Add(car);
             vechiles.Add(scooter);
             vechiles.Add(truck);
             vechiles.Add(bus);
 
-
+            // Iterate through each vehicle in the list and print their characteristics based on their types
             foreach (var vechile in vechiles)
             {
                 if (vechile is PassengerCar)
                 {
+                    // Print information about the PassengerCar
                     Console.WriteLine("Passenger car:");
                     Console.WriteLine("              Engine: ");
                     Console.WriteLine("                     Power: " + ((PassengerCar)vechile).engine.Power);
@@ -69,6 +74,7 @@ namespace solution
                 }
                 else if (vechile is Truck)
                 {
+                    // Print information about the Truck
                     Console.WriteLine("Truck:");
                     Console.WriteLine("              Engine: ");
                     Console.WriteLine("                     Power: " + ((Truck)vechile).engine.Power);
@@ -87,6 +93,7 @@ namespace solution
                 }
                 else if (vechile is Bus)
                 {
+                    // Print information about the Bus
                     Console.WriteLine("Bus:");
                     Console.WriteLine("              Engine: ");
                     Console.WriteLine("                     Power: " + ((Bus)vechile).engine.Power);
@@ -105,6 +112,7 @@ namespace solution
                 }
                 else if (vechile is Scooter)
                 {
+                    // Print information about the Scooter
                     Console.WriteLine("Scooter:");
                     Console.WriteLine("              Engine: ");
                     Console.WriteLine("                     Power: " + ((Scooter)vechile).engine.Power);

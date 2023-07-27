@@ -1,9 +1,8 @@
-﻿using System;
-using Solutions;
+﻿using Solutions;
 class Program
 {
     static void Main(string[] args)
     {
-        Solution.mainmethod();
+        Solution.mainmethod(); // Start the program execution by calling the mainmethod in the Solution class
     }
 }

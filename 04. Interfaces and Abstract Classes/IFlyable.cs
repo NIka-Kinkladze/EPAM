@@ -1,4 +1,5 @@
-﻿namespace InterfacesAndStructures
+﻿// Namespace for the coordinate structure and the IFlyable interface
+namespace InterfacesAndStructures
 {
     public struct Coordinate
     {
@@ -14,6 +15,7 @@
         }
     }
 
+    // IFlyable interface with methods to FlyTo and GetFlyTime
     public interface IFlyable
     {
         void FlyTo(Coordinate newPoint);
