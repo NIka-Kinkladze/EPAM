@@ -35,7 +35,7 @@
     public static void execution()
     {
         Console.WriteLine("Enter a sequence of symbols:");
-        string sequence = Console.ReadLine(); // Read the input sequence from the user
+        string? sequence = Console.ReadLine(); // Read the input sequence from the user
 
         int maxConsecutive = GetMaxUnequalConsecutiveCharacters(sequence); // Call the method to get the maximum unequal consecutive characters
         Console.WriteLine($"Maximum unequal consecutive characters: {maxConsecutive}"); // Print the result to the console
