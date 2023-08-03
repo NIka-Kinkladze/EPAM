@@ -1,5 +1,5 @@
 ﻿// Namespace containing classes for vehicle parts (Engine, Chasis, Transmission)
-namespace vechileparts
+namespace VehicleParts
 {
     // Engine class representing the engine of a vehicle
     public class Engine

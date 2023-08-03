@@ -1,7 +1,7 @@
 ﻿class Program
 {
-    static void Main(string[] args)
+    static void Main(String[] args)
     {
-        DecimalToBaseConverter.mainmethod(); // Start the program execution by calling the mainmethod in the Solution class
+        DecimalToBaseConverter.MainMethod(); // Start the program execution by calling the mainmethod in the Solution class
     }
 }

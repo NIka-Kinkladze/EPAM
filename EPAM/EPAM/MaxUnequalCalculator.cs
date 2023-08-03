@@ -1,4 +1,5 @@
-﻿public class Method
+﻿
+public class StringUtility
 {
     // Method to calculate the maximum number of unequal consecutive characters in the given sequence
     static int GetMaxUnequalConsecutiveCharacters(string sequence)
@@ -32,7 +33,7 @@
         return maxConsecutive; // Return the maximum unequal consecutive characters
     }
 
-    public static void execution()
+    public static void Execution()
     {
         Console.WriteLine("Enter a sequence of symbols:");
         string? sequence = Console.ReadLine(); // Read the input sequence from the user

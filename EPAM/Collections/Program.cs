@@ -6,10 +6,10 @@ namespace MainProgram
     class Program
     {
         // Main entry point of the program
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             // Call the method to demonstrate information about all vehicles
-            vehicleProvider.GetAllVechiles();
+            vehicleProvider.GetAllVehicles();
         }
     }
 }

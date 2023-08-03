@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Method.execution(); // Start the program execution by calling the execution method in the Method class
+            StringUtility.Execution(); // Start the program execution by calling the Execution method in the StringUtility class
         }
     }
 }

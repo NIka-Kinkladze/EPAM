@@ -1,6 +1,8 @@
-﻿public class DecimalToBaseConverter
+﻿using System;
+
+public class DecimalToBaseConverter
 {
-    public static void mainmethod()
+    public static void MainMethod()
     {
         Console.Write("Enter a decimal number: ");
         string? decimalString = Console.ReadLine(); // Read the decimal number as a string from the user
