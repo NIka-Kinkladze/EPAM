@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Development_and_build_tools
-build_property.ProjectDir = C:\Users\qinql\OneDrive\Desktop\EPAM\EPAM\EPAM\EPAM\
+build_property.ProjectDir = C:\Users\NIKA\Desktop\EPAM\EPAM\EPAM\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
